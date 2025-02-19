@@ -16,7 +16,7 @@ Using an interactive dashboard, this project analyzes Walmart's sales in relatio
 - Interactive Dashboard
 
 ## 📁 Data Source
-[Raleigh Development Plans](https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource=download)
+[Walmart Sales](https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource=download)
 
 ## ⚙️ Technologies Used
 - Excel
